@@ -14,4 +14,4 @@ The following models were trained and evaluated:
 🔹I handled class imbalance using SMOTE, compared Logistic Regression, Random Forest, and XGBoost, and finalized XGBoost due to its superior recall and ROC–AUC performance.
 
 🔹 Author
-Shlok Nandwana
+Vedansh Devpura
